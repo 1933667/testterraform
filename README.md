@@ -1,3 +1,3 @@
 # testterraform
 
-test check
+test check for terraform
